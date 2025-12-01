@@ -1,0 +1,242 @@
+
+
+Features:
+- Real-time stock data fetching
+- Moving averages (15, 30, 50, 100, 200 days)
+- Price change tracking (1, 5, 15, 30, 90 days)
+- Technical indicators (RSI, volatility, 52-week range)
+- Performance comparison and ranking
+- JSON data export
+- Chart generation
+
+
+STOCKS TRACKED
+
+Original 6 Stocks:
+1. META  - Meta (Facebook)
+2. AAPL  - Apple
+3. AMZN  - Amazon
+4. NFLX  - Netflix
+5. GOOGL - Google (Alphabet)
+6. MSFT  - Microsoft
+7. NVDA  - NVIDIA (AI and GPU leader)
+8. UBER  - Uber (Ride-sharing platform)
+
+
+PERFORMANCE RANKINGS - 30 DAY CHANGE
+
+
+Rank  Symbol  Company              Change     Status
+----  ------  ------------------  ---------  ------------------
+  1   GOOGL   Google (Alphabet)   +26.40%    Best Performer
+  2   AAPL    Apple               +10.63%    Strong
+  3   AMZN    Amazon              +9.47%     Strong
+  4   NVDA    NVIDIA              -3.39%     NEW - Slight decline
+  5   MSFT    Microsoft           -4.02%     Weak
+  6   UBER    Uber                -5.16%     NEW - Declining
+  7   META    Meta (Facebook)     -9.62%     Weak
+  8   NFLX    Netflix             -10.30%    Weakest Performer
+
+Summary: 3 Winners | 5 Losers
+
+
+CURRENT STOCK PRICES & MOVING AVERAGES
+
+
+Symbol  Price     15d MA    30d MA    50d MA    100d MA   200d MA   Volume
+------  -------  --------  --------  --------  --------  --------  --------
+META    $647.95  $614.21   $656.33   $686.28   $715.69   $672.46   11.0M
+AAPL    $278.85  $272.15   $268.83   $262.46   $242.70   $226.76   20.1M
+AMZN    $233.22  $232.84   $231.92   $227.57   $227.56   $214.68   20.3M
+NFLX    $107.58  $109.86   $111.25   $114.81   $118.09   $113.39   15.0M
+GOOGL   $320.18  $295.69   $282.15   $267.94   $237.48   $201.84   26.0M
+MSFT    $492.01  $493.01   $506.25   $509.75   $509.80   $466.43   14.4M
+NVDA    $177.00  $185.52   $189.08   $186.83   $181.06   $153.66   121.3M *
+UBER    $87.54   $89.13    $91.89    $93.91    $93.25    $87.03    9.1M
+
+* NVDA has highest trading volume by far (5x average)
+
+
+TREND STRENGTH ANALYSIS
+
+
+Strong Bullish Trends (100% score - Above All MAs):
+- AAPL  (Apple) - Trading above all moving averages
+- AMZN  (Amazon) - Trading above all moving averages
+- GOOGL (Google) - Trading above all moving averages
+
+Moderately Bearish (20% score - Below Most MAs):
+- META (Meta/Facebook) - Below 4 out of 5 MAs
+- MSFT (Microsoft) - Below 4 out of 5 MAs
+- NVDA (NVIDIA) - Below 4 out of 5 MAs [NEW]
+- UBER (Uber) - Below 4 out of 5 MAs [NEW]
+
+Strong Bearish (0% score - Below All MAs):
+- NFLX (Netflix) - Below all moving averages
+
+
+MOMENTUM SCORES
+
+
+Rank  Symbol  Company              Score      Assessment
+----  ------  ------------------  ---------  --------------
+  1   GOOGL   Google (Alphabet)   +21.77     Highest momentum
+  2   AAPL    Apple               +7.97      Strong
+  3   AMZN    Amazon              +3.85      Positive
+  4   MSFT    Microsoft           -2.72      Negative
+  5   META    Meta (Facebook)     -4.08      Negative
+  6   NVDA    NVIDIA              -4.41      Negative [NEW]
+  7   UBER    Uber                -5.03      Negative [NEW]
+  8   NFLX    Netflix             -7.19      Lowest momentum
+
+
+DETAILED ANALYSIS - NVIDIA (NVDA)
+
+
+Current Price: $177.00
+30-day change: -3.39%
+15-day change: -5.93%
+Trading volume: 121.3M (Highest of all tracked stocks)
+
+Technical Position:
+- Price: $177.00
+- 15d MA: $185.52 (Price -4.59% below)
+- 30d MA: $189.08 (Price -6.39% below)
+- 50d MA: $186.83 (Price -5.26% below)
+- 100d MA: $181.06 (Price -2.24% below)
+- 200d MA: $153.66 (Price +15.19% above) *** Long-term bullish
+
+Trend Strength: Moderately Bearish (20%)
+Below 4 out of 5 moving averages
+
+Key Insights:
+- Recent pullback after strong gains earlier in the year
+- Still above 200-day MA indicating long-term strength intact
+- Exceptionally high trading volume shows strong investor interest
+- AI chip market leader position remains unchallenged
+- Short-term weakness may present buying opportunity for long-term investors
+
+
+DETAILED ANALYSIS - UBER
+
+
+Current Price: $87.54
+30-day change: -5.16%
+15-day change: -4.84%
+Trading volume: 9.1M (Moderate)
+
+Technical Position:
+- Price: $87.54
+- 15d MA: $89.13 (Price -1.78% below)
+- 30d MA: $91.89 (Price -4.73% below)
+- 50d MA: $93.91 (Price -6.78% below)
+- 100d MA: $93.25 (Price -6.12% below)
+- 200d MA: $87.03 (Price +0.59% above) *** Critical support level
+
+Trend Strength: Moderately Bearish (20%)
+Below 4 out of 5 moving averages
+
+Key Insights:
+- Recent decline from higher levels
+- Hovering just above 200-day MA (key support at $87.03)
+- Below all shorter-term averages suggesting near-term weakness
+- Rideshare market leader but facing competitive pressures
+- Testing critical support level - watch for bounce or breakdown
+
+
+
+
+Winners:
+1. GOOGL - Exceptional 26.40% gain, strongest momentum, above all MAs
+2. AAPL - Solid 10.63% gain, strong bullish trend
+3. AMZN - Strong 9.47% gain, trading above all MAs
+
+Losers:
+1. NFLX - Worst performer at -10.30%, below all MAs
+2. META - Down 9.62%, weak technical position
+3. UBER - New addition, down 5.16%, testing support
+
+New Stock Performance:
+- NVDA: Short-term weakness (-3.39%) but long-term trend still bullish
+  High volume indicates strong interest despite pullback
+- UBER: Moderate decline (-5.16%), testing critical 200-day MA support
+  Needs to hold current levels to avoid further weakness
+
+Market Observations:
+- Clear divergence in tech sector between winners and losers
+- GOOGL leading with exceptional performance across all metrics
+- Multiple stocks (5 out of 8) showing weakness below most MAs
+- NVIDIA highest volume by far (121M vs 20M average) despite decline
+- Both new stocks showing short-term weakness but long-term still intact
+
+
+TECHNICAL INDICATORS EXPLAINED
+
+
+Moving Averages:
+- 15-day MA: Very short-term trend indicator
+- 30-day MA: Short-term trend (1 month)
+- 50-day MA: Medium-term trend (widely watched by traders)
+- 100-day MA: Intermediate trend
+- 200-day MA: Long-term trend (most important support/resistance)
+
+Interpretation:
+- Price > MA = Bullish signal (uptrend)
+- Price < MA = Bearish signal (downtrend)
+- Golden Cross: 50-day crosses above 200-day (very bullish)
+- Death Cross: 50-day crosses below 200-day (very bearish)
+
+Trend Strength Score:
+- 100% = Above all moving averages (strong bullish)
+- 80% = Above most MAs (moderately bullish)
+- 60% = Mixed positioning (neutral to bullish)
+- 40% = Mixed positioning (neutral to bearish)
+- 20% = Below most MAs (moderately bearish)
+- 0% = Below all moving averages (strong bearish)
+
+Momentum Score:
+- Weighted calculation based on recent price changes
+- Higher weight given to more recent periods
+- Positive score indicates upward momentum
+- Negative score indicates downward momentum
+
+Volume:
+- High volume confirms price movements
+- Low volume suggests weak conviction
+- Watch for volume spikes during price changes
+
+
+
+Bullish Signals:
+- GOOGL, AAPL, AMZN all showing strong upward momentum
+- Trading above all key moving averages
+- Positive price momentum across multiple timeframes
+
+Cautionary Signals:
+- 5 out of 8 stocks showing weakness (below most MAs)
+- NVDA and UBER (new additions) both showing recent weakness
+- NFLX in strong bearish position (below all MAs)
+
+Watch Points:
+- NVDA: Monitor 200-day MA support at $153.66
+  Current price $177 still well above, but losing ground
+  
+- UBER: Critical support at 200-day MA ($87.03)
+  Current price $87.54 just barely above - key level to watch
+  
+- NFLX: Needs catalyst to reverse strong bearish trend
+  Below all moving averages with weakest momentum
+
+Notable Observations:
+- Tech sector showing clear divergence
+- AI/cloud leaders (GOOGL, MSFT) mixed performance
+- Traditional growth stocks (AAPL, AMZN) performing well
+- NVIDIA high volume despite decline suggests accumulation
+- Uber testing key support - critical inflection point
+
+
+
+IMPORTANT: This tool is for EDUCATIONAL PURPOSES ONLY.
+
+
+

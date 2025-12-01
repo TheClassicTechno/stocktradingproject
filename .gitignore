@@ -1,0 +1,47 @@
+# .gitignore for Stock Trading Project
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Generated analysis files
+stock_analysis.json
+advanced_stock_analysis.json
+
+# Generated charts
+*.png
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# API Keys (if stored in files)
+config.py
+.env
+secrets.py
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Output logs
+*.log
+
+# Test files
+test_*.py
+*_test.py
